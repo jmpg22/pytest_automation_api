@@ -1,1 +1,1 @@
-# selenium_test_automation_project
+# playwrigth_test_automation_project
