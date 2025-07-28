@@ -1,1 +1,1 @@
-# playwrigth_test_automation_project
+# pytest_test_automation_project focused on API testing
